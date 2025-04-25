@@ -1,3 +1,4 @@
+
 <h1 align="left">Olá, Seja bem-vindo!</h1>
 
 ###
@@ -6,11 +7,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Php, Java, Html, Modelagem de banco de dados, Sql entre outros.<br>🎯 Goals: Focar em uma linguagem específica que esteja alinhada com <br> o mercado de trabalho</p>
+<p align="left">📚 Atualmente estou aprendendo Php, Java, Html, Modelagem de banco de dados, Sql entre outros.<br>🎯 Metas: Focar em uma linguagem específica que esteja alinhada com <br> o mercado de trabalho</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">Eu codifico com</h2>
 
 ###
 
