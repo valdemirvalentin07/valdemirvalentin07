@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Meu nome é Valdemir, mas sou conhecido como Gahlego. Estou Cursando Desenvolvimento de software e multiplataformas na Fatec Araras e Atualmente estou no 2 Semestre.</p>
+<p align="left">Meu nome é Valdemir, mas sou conhecido como Gahlego e tenho 23 anos. Estou Cursando Desenvolvimento de software e multiplataformas na Fatec Araras e Atualmente estou no 2 Semestre.</p>
 
 ###
 
