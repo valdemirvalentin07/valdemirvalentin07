@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo Php, Java, Html, Modelagem de banco de dados, Sql entre outros.<br>🎯 Metas: Focar em uma linguagem específica que esteja alinhada com <br> o mercado de trabalho</p>
+<p align="left">📚 Atualmente estou aprendendo Php, Java, Sql entre outros.<br>
 
 ###
 
